@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#340040FF"
+        android:text="Código:" />
+
+    <TextView
+        android:id="@+id/textCod"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="5dp"
+        android:text="Código"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#340040FF"
+        android:text="Produto:" />
+
+    <TextView
+        android:id="@+id/textProd"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="5dp"
+        android:text="Produto"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#340040FF"
+        android:text="Quantidade:" />
+
+    <TextView
+        android:id="@+id/textQtde"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="5dp"
+        android:text="Quantidade"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#340040FF"
+        android:text="Localidade:" />
+
+    <TextView
+        android:id="@+id/textLoc"
+        android:layout_width="match_parent"
+        android:layout_height="54dp"
+        android:padding="5dp"
+        android:text="Localidade"
+        android:textSize="18sp" />
+
+</LinearLayout>

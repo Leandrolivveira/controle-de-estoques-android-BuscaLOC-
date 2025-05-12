@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "48135102919",
+    "project_id": "buscaloc-5e2e5",
+    "storage_bucket": "buscaloc-5e2e5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:48135102919:android:df34a7dad2d9be53fb79e2",
+        "android_client_info": {
+          "package_name": "com.valhalla.leandrolivveira.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "48135102919-b6auhvs3keqmpg4pmpivdl85n800rt8s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.valhalla.leandrolivveira.myapplication",
+            "certificate_hash": "b1c0cf96b0ca19be69bc5998c3a46e30f9ff1b15"
+          }
+        },
+        {
+          "client_id": "48135102919-9ssmvik4b7nusds5f5v1q8t67h90gq75.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyZ82OIujuALsK8cMowgaqP4YOUtpUHYs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "48135102919-9ssmvik4b7nusds5f5v1q8t67h90gq75.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
